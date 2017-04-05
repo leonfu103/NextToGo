@@ -1,0 +1,1 @@
+export const RACES_RECEIVED = 'RACES RECEIVED'

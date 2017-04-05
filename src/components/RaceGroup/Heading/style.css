@@ -1,0 +1,14 @@
+.RaceGroup__heading {
+	display: block;
+  width: auto;
+  text-align: left;
+  padding-left: 20px;
+}
+
+.RaceGroup__heading img {
+	width: 40px;
+}
+
+.RaceGroup__heading span {
+	padding-left: 20px;
+}

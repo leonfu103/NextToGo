@@ -1,0 +1,21 @@
+.RaceGroup__tag {
+	display: inline-block;
+	text-align: left;
+	width: 27%;
+	border: solid grey 2px;
+	margin: 8px;
+	padding: 20px;
+}
+
+.RaceGroup__tag p {
+	margin: 4px;
+	padding-left: 20px;
+}
+
+.Tag_image {
+	width: 25px;
+}
+
+.Tag_name {
+	padding-left: 8px;
+}
